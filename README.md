@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/parthpatil2006/Leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/parthpatil2006/Leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/parthpatil2006/Leetcode/tree/master/2235-add-two-integers) |
 ## String
